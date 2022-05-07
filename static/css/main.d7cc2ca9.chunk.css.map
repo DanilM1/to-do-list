@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,GACE,SAAU,CACV,iBACF,CAEA,YACE,gBACF","file":"main.d7cc2ca9.chunk.css","sourcesContent":["h1 {\n  margin: 1%;\n  text-align: center;\n}\n\n.list-group {\n  margin-bottom: 1%;\n}\n"]}
